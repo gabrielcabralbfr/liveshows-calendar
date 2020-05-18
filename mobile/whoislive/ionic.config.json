@@ -1,0 +1,7 @@
+{
+  "name": "whoislive",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
